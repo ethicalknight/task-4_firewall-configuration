@@ -1,0 +1,7 @@
+Windows Firewall Configuration Steps
+1. Opened Windows Firewall via `wf.msc`.
+2. Listed inbound rules.
+3. Created rule to block TCP port 23 (Telnet).
+4. Tested using Telnet: connection failed as expected.
+5. Created rule to allow TCP port 22 (SSH).
+6. Deleted Telnet block rule to restore original state.

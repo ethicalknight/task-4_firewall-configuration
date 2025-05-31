@@ -1,0 +1,11 @@
+A firewall inspects incoming and outgoing traffic and applies rules based on:
+
+Port number
+
+IP address
+
+Application/program
+
+Direction (Inbound/Outbound)
+
+Rules are used to allow or block specific traffic to protect systems from unauthorized access.
